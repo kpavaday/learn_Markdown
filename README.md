@@ -31,4 +31,10 @@ Pour aller sur mon site: [Ariane](https://ariane-portail.open-xerox.com/)
 Lien vers un autre fichier [Vers test.md](test.md)  
 
 #Ajouter une image  
-![Logo](Image1.jpg)
+![Logo](Image1.jpg)  
+
+#Ajouter un emoji
+Pour trouver la liste des emojis disponible avec GitHub : [Liste des emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
+C'est super fun Git & GitHub :rofl:
+
+
