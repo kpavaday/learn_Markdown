@@ -19,7 +19,7 @@ J'adore "Git et Github*
 >Nous avons ici une citation  
 Nous avons imbriqué `une citation` ici
 
-#Code dans MarkDown
+#Code dans MarkDown  
 Pour faire un commit  
 ```  
 git status  
