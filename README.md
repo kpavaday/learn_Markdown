@@ -35,6 +35,19 @@ Lien vers un autre fichier [Vers test.md](test.md)
 
 #Ajouter un emoji
 Pour trouver la liste des emojis disponible avec GitHub : [Liste des emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
-C'est super fun Git & GitHub :rofl:
+C'est super fun Git & GitHub :rofl:  
+
+#Listes
+
+##Liste simple
+* Element A  
+* Element B  
+* Element c  
+
+##Listes ordonnées
+1. Carottes  
+2. Pommes dde terre  
+3. Salade  
+
 
 
